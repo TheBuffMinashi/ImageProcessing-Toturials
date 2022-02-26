@@ -40,3 +40,5 @@ for jpg_image in os.listdir(jpgs_folder):
 
     # Save tif image in the same directory
     image.save(tif_path, 'TIFF')
+
+    
